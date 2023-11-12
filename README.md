@@ -1,4 +1,4 @@
-# nodejs-basic-users-system
+# Node.js Basic users system
 
 This project is a simple Node.js API for managing user data in a PostgreSQL database. It provides basic CRUD (Create, Read, Update, Delete) operations for users.
 
